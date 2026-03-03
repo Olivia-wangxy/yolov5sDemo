@@ -8,3 +8,4 @@
 1. 原Demo中的yolov5s-int8.rknn可在RK3568中的NPU运行，用时65ms左右（rknn_run done, Elapse = 64.13 ms, FPS = 15.59）
 2. 使用yolov5s-640-640.rknn在RK3576上对同一张图多次识别，用时约18ms~60ms，平均在40ms左右（normal Elapse Time = 41.07 ms, FPS = 24.35）
 
+<img width="2241" height="1148" alt="image" src="https://github.com/user-attachments/assets/f2e2c86e-2835-4d74-83b4-bf56d444dc18" />
